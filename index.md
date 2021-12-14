@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/rhitamam/Data-Story/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.usc.edu%2F157113%2Fus-china-trade-war-impact%2F&psig=AOvVaw2QYjsJWSUbKIj-wmtsaNWl&ust=1639560863266000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDj9a_-4vQCFQAAAAAdAAAAABAD)
+![This is an image](https://news.usc.edu/files/2019/05/US-China-trade-war-web2.jpg)
 
 ### Markdown
 
