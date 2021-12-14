@@ -1,10 +1,10 @@
-## The US-China Trade War
 
-You can use the [editor on GitHub](https://github.com/rhitamam/Data-Story/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ![This is an image](https://news.usc.edu/files/2019/05/US-China-trade-war-web2.jpg)
+
+# ABSTRACT
+The US-China trade war began in July 2018, eventually leading to tariffs on some US$550 billion of Chinese goods and US$185 billion of US goods [1]. We wish to analyze the US VS China trade war in order to build our data story around the one million dollar question : which comes first, the price or the sentiment? Indeed, since those two countries have such an influence on the world economy, we can assume that every single political tension related in the press is susceptible to have some repercussions on assets [2]. The end goal would be to perform interesting analyzes about stock prices correlation with announcements in the US press and even causation if applicable. We refine our ideas in the research questions section. Quotebank dataset [3] can be used to extract sentiment from its great amount of quotes which cover the trade war period. We plan to use enhanced daily data about significant assets as our stock variation reference [4, 5].
+
 
 ### Markdown
 
