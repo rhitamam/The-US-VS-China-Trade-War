@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The US-China Trade War
 
 You can use the [editor on GitHub](https://github.com/rhitamam/Data-Story/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
